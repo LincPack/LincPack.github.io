@@ -3,6 +3,7 @@ layout: default
 title: Lincoln's Portfolio
 ---
 
+<title>Lincoln's Portfolio<title>
 
 <div class="hero">
   <div class="hero-content">
