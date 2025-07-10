@@ -14,7 +14,9 @@ Working at Lystup Maher has been one of the foundation points of my career as an
 - [Pohutu](#pohutu)
 
 
-# LEO Flight
+<div align="center">
+  <h1>LEO Flight</h1>
+</div>
 
 ## LEO Solo
 
@@ -32,27 +34,35 @@ Working at Lystup Maher has been one of the foundation points of my career as an
 ### Lessons Learned
 - Engineering processes are critical! Develop methods to solve problems that are specific to you.
 
-# iDOP
+<div align="center">
+  <h1>iDOP</h1>
+</div>
 
 ## Dental Arm Tray
 
 ### Lessons Learned
 - Measure twice, cut once is a lesson for every step in the manufacturing process. 
 
-# CFX Technologies
+<div align="center">
+  <h1>CFX Technologies</h1>
+</div>
 
 ## Carbon Falcon Drone Frame
 
 ### Lessons Learned
 - One of the best ways to make progress is to remember the first principles upon which something is made. By understanding the underlying problems or the fundamentals of a mechanism, faster and more efficient designs will be found. 
 
-# CTE Engine Company
+# <div align="center">
+  <h1>CTE Engine Company</h1>
+</div>
 
 ## CTE Engine
 
 ### Lessons Learned
 
-# Pohutu
+# <div align="center">
+  <h1>Pohutu</h1>
+</div>
 
 ## Water Bottle Lid
 
