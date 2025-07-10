@@ -14,7 +14,7 @@ Bringing to fruition my own projects has been a source of joy for me for a long 
 </div>
 
 <div align='center'>
-<h1>SCap Snapper</h1>
+<h1>Cap Snapper</h1>
 </div>
 
 <div align='center'>

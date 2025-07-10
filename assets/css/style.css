@@ -1,12 +1,12 @@
 /* css/styles.css */
 :root {
     --primary-color: #00395f;
-    --background-color: #99bee2;
+    --background-color: #ffffff;
     --text-color: #333;
 }
 
 body {
-    font-family: 'Roboto', Arial, sans-serif;
+    font-family: 'Times New Roman', Arial, sans-serif;
     line-height: 1.6;
     color: var(--text-color);
     background-color: var(--background-color);
@@ -32,6 +32,7 @@ a:hover {
     max-width: 1000px;
     margin: 0 auto;
     padding: 0 20px;
+    color: rgb(237, 246, 190);
 }
 
 .hero {
@@ -48,4 +49,5 @@ a:hover {
 
 .hero-content {
   text-align: center;
+  color: white; /* Ensure all text, including headings, is white */
 }
