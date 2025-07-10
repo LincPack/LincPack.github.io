@@ -1,3 +1,9 @@
+---
+layout: default
+title: Lincoln Packer's Portfolio
+---
+
+
 <div class="hero">
   <div class="hero-content">
     <h1>Lincoln Packer</h1>
@@ -10,5 +16,6 @@
 Welcome to my portfolio...
 
 # Experience
-[Lystrup Maher](Lystrup Maher Work)
+[Lystrup Maher](Lystrup Maher Work.md)
+
 [BYU RaD Lab](RaD Lab Work.md)
