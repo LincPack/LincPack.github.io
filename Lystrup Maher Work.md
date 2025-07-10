@@ -52,7 +52,7 @@ Working at Lystup Maher has been one of the foundation points of my career as an
 ### Lessons Learned
 - One of the best ways to make progress is to remember the first principles upon which something is made. By understanding the underlying problems or the fundamentals of a mechanism, faster and more efficient designs will be found. 
 
-# <div align="center">
+<div align="center">
   <h1>CTE Engine Company</h1>
 </div>
 
@@ -60,7 +60,7 @@ Working at Lystup Maher has been one of the foundation points of my career as an
 
 ### Lessons Learned
 
-# <div align="center">
+<div align="center">
   <h1>Pohutu</h1>
 </div>
 

@@ -19,3 +19,5 @@ Welcome to my portfolio...
 [Lystrup Maher](Lystrup Maher Work.md)
 
 [BYU RaD Lab](RaD Lab Work.md)
+
+[Personal Projects](Personal Projects.md)
