@@ -1,0 +1,15 @@
+.hero {
+  background-image: url('/assets/images/header-bg.jpg'); /* Replace with your image */
+  background-size: cover;
+  background-position: center;
+  height: 300px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: white;
+  text-shadow: 1px 1px 5px black;
+}
+
+.hero-content {
+  text-align: center;
+}
