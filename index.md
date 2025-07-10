@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Lincoln Packer's Portfolio
+title: Lincoln's Portfolio
 ---
 
 

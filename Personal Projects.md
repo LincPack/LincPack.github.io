@@ -1,3 +1,8 @@
+---
+layout: default
+title: Personal Projects
+---
+
 Bringing to fruition my own projects has been a source of joy for me for a long time. 
 
 <div align='center'>
