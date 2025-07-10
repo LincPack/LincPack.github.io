@@ -19,26 +19,32 @@ Working at Lystup Maher has been one of the foundation points of my career as an
 ## LEO Solo
 
 ### Lessons Learned
+- Being assertive is expected as an engineer. You should be confident in the work that you do.
 
 ## LEO Jetpack
 
 ### Lessons Learned
+- You should take personal ownership of the tasks you are assigned to perform. The failure or success of your project is completely on your shoulders. 
+- Use your failures! Don't let them go to waste! Leech every last drop of insight from them. 
 
 ## LEO Coupe
 
 ### Lessons Learned
+- Engineering processes are critical! Develop methods to solve problems that are specific to you.
 
 # iDOP
 
 ## Dental Arm Tray
 
 ### Lessons Learned
+- Measure twice, cut once is a lesson for every step in the manufacturing process. 
 
 # CFX Technologies
 
 ## Carbon Falcon Drone Frame
 
 ### Lessons Learned
+- One of the best ways to make progress is to remember the first principles upon which something is made. By understanding the underlying problems or the fundamentals of a mechanism, faster and more efficient designs will be found. 
 
 # CTE Engine Company
 
@@ -51,3 +57,7 @@ Working at Lystup Maher has been one of the foundation points of my career as an
 ## Water Bottle Lid
 
 ### Lessons Learned
+- Moonshot goals promote progress
+- By prototyping quickly, progress accelerates
+- Every design should go through phases of rapid progress and then slow analysis. 
+- Simple is the best design requirement
