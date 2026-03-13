@@ -1,7 +1,7 @@
 /* css/styles.css */
 :root {
     --primary-color: #00395f;
-    --background-color: #ffffff;
+    --background-color: #f8f9fa;
     --text-color: #333333;
     --border-color: #eaecef;
 }
@@ -42,7 +42,7 @@ a:hover {
 }
 
 .container {
-    max-width: 800px; /* Optimal reading width */
+    max-width: 1200px; /* Increased width for better screen usage */
     margin: 0 auto;
     padding: 40px 20px; /* Better spacing on mobile and desktop */
 }
