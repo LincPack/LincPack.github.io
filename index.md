@@ -14,10 +14,12 @@ title: Lincoln's Portfolio
 
 Welcome to my portfolio...
 
+[Resume](assets/Resume.pdf) | [Cover Letter](assets/CoverLetter.pdf)
+
 # Experience
 [Lystrup Maher](Lystrup Maher Work.md)
 
-[BYU RaD Lab](RaD Lab Work.md)
+[BYU RaD Lab](RaD Lab Research.md)
 
 [Kirigami Research](Kirigami Research.md)
 
